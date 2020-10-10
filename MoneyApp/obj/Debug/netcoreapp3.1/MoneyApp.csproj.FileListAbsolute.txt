@@ -1,0 +1,13 @@
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\bin\Debug\netcoreapp3.1\MoneyApp.exe
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\bin\Debug\netcoreapp3.1\MoneyApp.deps.json
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\bin\Debug\netcoreapp3.1\MoneyApp.runtimeconfig.json
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\bin\Debug\netcoreapp3.1\MoneyApp.runtimeconfig.dev.json
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\bin\Debug\netcoreapp3.1\MoneyApp.dll
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\bin\Debug\netcoreapp3.1\MoneyApp.pdb
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\obj\Debug\netcoreapp3.1\MoneyApp.csprojAssemblyReference.cache
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\obj\Debug\netcoreapp3.1\MoneyApp.AssemblyInfoInputs.cache
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\obj\Debug\netcoreapp3.1\MoneyApp.AssemblyInfo.cs
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\obj\Debug\netcoreapp3.1\MoneyApp.dll
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\obj\Debug\netcoreapp3.1\MoneyApp.pdb
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\bin\Debug\netcoreapp3.1\MoreLinq.dll
+C:\Users\darren.h\source\repos\MoneyApp\MoneyApp\obj\Debug\netcoreapp3.1\MoneyApp.csproj.CopyComplete
