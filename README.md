@@ -1,6 +1,7 @@
 Provide a working solution containing implementations of the following interfaces, with tests demonstrating their correctness.
 Use whatever tools and .NET version you have available.
 Please submit your code through a public git repository, e.g. GitHub.
+
     /// <summary>
     /// An amount of money in a particular currency.
     /// </summary>
